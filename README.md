@@ -7,16 +7,7 @@
 This little midipad will help me access easily some of my music production software's functionalities.
 
 
-## Case
 
-The case includes:
-
-- 3D printed parts: a base and a top cover
-- Assembled with 4x M3 bolts and 4x M3 heatset inserts
-
-Designed in Fusion 360:
-
-<img src="assets/CAD.png" alt="CAD model" width="500"/>
 
 ## Schematic and PCB
 
@@ -31,6 +22,17 @@ Schematic:
 PCB:
 
 <img src="assets/pcb.png" alt="PCB" width="500"/>
+
+## Case
+
+The case includes:
+
+- 3D printed parts: a base and a top cover
+- Assembled with 4x M3 bolts and 4x M3 heatset inserts
+
+Designed in Fusion 360:
+
+<img src="assets/CAD.png" alt="CAD model" width="500"/>
 
 ## BOM
 
